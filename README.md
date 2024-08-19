@@ -38,13 +38,6 @@ chmod +x ccminer start.sh
 ```
 nano config.json
 ```
-## Edit start.sh to simple
-```
-nano start.sh
-
-#!/bin/sh
-~/ccminer/ccminer -c ~/ccminer/config.json
-```
 
 ## RUN MINER TEST: 
 ```
