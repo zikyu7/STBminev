@@ -36,7 +36,6 @@ chmod +x ccminer start.sh
 
 ## Edit config Json to your wallet and worker name, and thread from 2-4 for stb
 ```
-cd ccminer
 nano config.json
 ```
 ## Edit start.sh to simple
