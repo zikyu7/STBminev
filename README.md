@@ -24,6 +24,8 @@ Place the sd card into Tv box, boot it and connect LAN Cable then run the follow
 
 # STB/TV BOX ARMBIAN DESKTOP [ TERMINAL ] / SERVER / openWRT
 
+# This tutorial Will work too with Raspberry Pi , bananaPi. OrangePi, Riscv and other arm 64 bit linux devices 
+
 
 ## [ install update ] 
 ```
