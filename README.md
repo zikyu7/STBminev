@@ -34,11 +34,11 @@ apt update && apt upgrade
 
 ## [ install libs]
 ```
-apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential -y
+apt install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential -y
 
-apt-get install libomp5
+apt install libomp5
 
-apt-get install git
+apt install git
 
 ```
 
