@@ -29,7 +29,8 @@ Place the sd card into Tv box, boot it and connect LAN Cable then run the follow
 
 ## [ install update ] 
 ```
-apt update && apt upgrade 
+apt update
+apt upgrade [for some old armbian] 
 ```
 
 ## [ install libs]
