@@ -34,12 +34,11 @@ apt update && apt upgrade
 
 ## [ install libs]
 ```
-
-apt install libcurl4-openssl-dev libjansson-dev automake autotools-dev build-essential -y
-apt-get install libssl-dev
-apt install openssl
+apt-get update
+apt-get upgrade
+apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
+apt-get install git
 apt install libomp5
-apt install git
 
 ```
 
@@ -49,6 +48,7 @@ git clone https://github.com/zikyu7/STBminev/
 mv STBminev ccminer
 cd ccminer
 chmod +x ccminer start.sh
+bash openssl.sh
 ```
 
 ## Edit config Json to your wallet and worker name, and thread from 2-4 for stb
