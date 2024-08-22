@@ -29,14 +29,12 @@ Place the sd card into Tv box, boot it and connect LAN Cable then run the follow
 
 ## [ install update ] 
 ```
-apt update
-apt upgrade [for some old armbian] 
+apt-get update
+apt-get upgrade [ for some old armbian ]
 ```
 
 ## [ install libs]
 ```
-apt-get update
-apt-get upgrade
 apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
 apt-get install git
 apt install libomp5
