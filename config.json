@@ -16,7 +16,7 @@
 	
 	"user": "RV3mdCWXgijaKCvpu764Xm9zmHzGRY6jjG.STB-",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
