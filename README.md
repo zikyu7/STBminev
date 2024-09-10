@@ -36,8 +36,10 @@ apt-get update
 ```
 apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
 ```
+
 ```
 apt-get install git
+```
 ```
 apt install libomp5
 
